@@ -126,4 +126,48 @@ If you encounter any issues:
 1. **Missing dependencies**: Make sure all required packages are installed
 2. **CSS not loading**: Check that the globals.css is properly imported in layout.tsx
 3. **Animation not working**: Verify that Framer Motion is correctly installed and imported
-4. **Icons not showing**: Ensure Lucide React is installed and icons are properly imported
+4. **Icons not showing**: Ensure Lucide React is installed and icons are properly imported.
+
+
+
+necessary files(import this files to view the project)
+
+
+
+app
+
+globals.css
+
+layout.tsx
+
+loading.tsx
+
+page.tsx
+
+
+
+
+
+public
+
+
+
+images
+
+university-row1.png
+
+
+
+university-row2.png
+
+
+
+university-row3.png
+
+
+
+
+
+package.json
+
+tailwind.config.ts
