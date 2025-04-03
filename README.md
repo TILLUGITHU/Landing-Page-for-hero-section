@@ -6,7 +6,7 @@ Created a Hero Section for a Landing Page
 
 ### 1. Pixel-Perfect Design Implementation
 
-- Recreated the hero section exactly as shown in the reference image
+- Recreated the hero section exactly as shown in the reference figma design 
 - Matched typography, colors, spacing, and layout for both mobile and desktop versions
 - Implemented the crown icon with the red circular background
 - Created the university icons grid with proper spacing and alignment
